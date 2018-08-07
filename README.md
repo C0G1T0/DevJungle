@@ -8,20 +8,20 @@ This application is a small social network for developers.
 It is a fullstack project created with MongoDB, Express, React, Redux and Node.
 
 After signing up, the user can access to his dashboard to create his developer's profile.
-He can create his own handle, add his position, company, website, location, github profile, a bio and if he wants, add his social network links (twitter, facebook, linkedin, youtube, instagram).
-Also there is an experience section where the developer can add any job or position that he have had in the past or current (company, job title, location, date from, date to or current, job description).
-On the same schema, there is also an education section to add any school, bootcamp, etc that he have attended.
+He can create his own handle, add his position, company, website, location, github profile, a bio and also his social network links (twitter, facebook, linkedin, youtube, instagram).
+Also there is an experience section where the developer can add any jobs or positions that he has occupied in the past or is currently occupying (company, job title, location, date from, date to or current, job description).
+On the same pattern, there is also an education section to add any schools, bootcamps, etc that he has attended.
 
 Every developer can access a post feed section where he can create a post and keep in touch with other developers.
 He can comment every post and even like or unlike a post.
 
-The last section of the application is public and allow the visitor to see the list of every developers who have signed up with some basics informations about them. The visitor can click on view profile to know more about him and see all the informations of his profile.
+The last section of the application is public and allows the visitor to see the list of every developers who have signed up with some basic information about them. The visitor can click on view profile to know more about him and see all the information of his profile.
 
 ### To run the project :
 
 ```
 > npm install
-> npm start
+> npm run dev
 ```
 
 ### The project step by step
