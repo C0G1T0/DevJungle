@@ -2,7 +2,7 @@
 
 ## Project MERN - MongoDB, Express, React - Redux, Node / Fullstack ;-)
 
-## To see this application online:
+## To see this application online: https://devjungle.herokuapp.com/
 
 This application is a small social network for developers.
 It is a fullstack project created with MongoDB, Express, React, Redux and Node.
@@ -16,6 +16,8 @@ Every developer can access a post feed section where he can create a post and ke
 He can comment every post and even like or unlike a post.
 
 The last section of the application is public and allows the visitor to see the list of every developers who have signed up with some basic information about them. The visitor can click on view profile to know more about him and see all the information of his profile.
+
+Of course you will find my profile here: https://devjungle.herokuapp.com/profile/cogito
 
 ### To run the project :
 
