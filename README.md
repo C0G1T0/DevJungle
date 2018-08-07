@@ -1,21 +1,21 @@
 # DevJungle
 
-## Project MERN - MongoDB, Express, React - Redux, Node / Fullstack!
+## Project MERN - MongoDB, Express, React - Redux, Node / Fullstack ;-)
 
 ## To see this application online:
 
-This application is a small social network for developpers.
+This application is a small social network for developers.
 It is a fullstack project created with MongoDB, Express, React, Redux and Node.
 
-After signing up, the user can access to his dashboard to create his developper's profile.
+After signing up, the user can access to his dashboard to create his developer's profile.
 He can create his own handle, add his position, company, website, location, github profile, a bio and if he wants, add his social network links (twitter, facebook, linkedin, youtube, instagram).
-Also there is an experience section where the user can add any job or position that he have had in the past or current (company, job title, location, date from, date to or current, job description).
+Also there is an experience section where the developer can add any job or position that he have had in the past or current (company, job title, location, date from, date to or current, job description).
 On the same schema, there is also an education section to add any school, bootcamp, etc that he have attended.
 
-Every user can access a post feed section where he can create a post and keep in touch with other developper.
+Every developer can access a post feed section where he can create a post and keep in touch with other developers.
 He can comment every post and even like or unlike a post.
 
-The last section of the application is public and allow the visitor to see the list of every developpers who have signed up with some basics informations about them. The visitor can click on view profile to know more about him and see all the informations of his profile.
+The last section of the application is public and allow the visitor to see the list of every developers who have signed up with some basics informations about them. The visitor can click on view profile to know more about him and see all the informations of his profile.
 
 ### To run the project :
 
